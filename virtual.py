@@ -13,8 +13,8 @@ a.runAndWait()
 # Connect to MySQL database
 conn = mysql.connector.connect(
     host="localhost",
-    user="root",
-    password="nis569656$",
+    user="user_hostname",
+    password="user_password",
     database="college_responses"
 )
 cursor = conn.cursor()
