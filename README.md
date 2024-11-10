@@ -1,4 +1,4 @@
-GLWEC Virtual Prospectus
+**GLWEC Virtual Prospectus**
 
 This project is a simple voice assistant powered by Python that answers frequently asked questions (FAQs) related to GLWEC (Gokaraju Lailavathi Womens Engineering College). It uses speech recognition to process the user's questions and fetches answers from a MySQL database. The system is designed to run with a graphical user interface (GUI) using Tkinter, and it supports both voice input and text-based output.
 
